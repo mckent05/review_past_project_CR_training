@@ -1,0 +1,146 @@
+
+#nav-bar{
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    padding: 10px 0px;
+    max-width:40vw;
+    display: block;
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+#header-img{
+    display: inline;
+    max-width: 50vw;
+    
+}
+
+.form-text{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px
+}
+#nav-bar a{
+    display: inline;
+    margin: 0px 10px;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    
+}
+    
+
+#features p{
+    text-align: center;
+    display: block;
+}
+ #header-img{
+     position: fixed;
+     top: 0px;
+     display: inline-flex;
+     padding: 20px 10px;
+ }
+
+
+
+#features{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    text-align: center;
+   
+
+    
+    
+}
+#how-it-works{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    text-align: center;
+}
+.btn{
+    margin-top: 20px;
+    display: block;
+    
+}
+.btn input{
+    background-color: yellow;
+    padding: 5px;
+    padding-left: 20px;
+    font-weight: bolder;
+    
+    
+}
+.prem-mat{
+    text-align: center;
+    display: block;
+    margin-left: 20vw;
+    
+    
+    
+
+    
+}
+.prem-mat h1{
+    margin-bottom: 0px;
+    text-align: left;
+    
+    
+}
+.prem-mat h4{
+    font-weight: normal;
+    margin-top: 0px;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+#pricing{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    text-align: center;
+    
+    
+    
+    
+    
+}
+.price-list{
+    border: 1px solid black;
+    display: inline-block;
+    border-radius: 5px;
+    margin-right:20px ;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    
+    
+    
+}
+
+.price-list h1{
+    background-color: darkgrey;
+    margin-top: 0px;
+    padding: 10px 50px;
+    font-weight: normal;
+    font-size: 20px;
+    
+    
+
+    
+}
+
+@media screen and (min-width:760px){
+    *{
+        background:orange;
+    }
+}
